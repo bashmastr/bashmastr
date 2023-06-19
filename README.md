@@ -4,7 +4,7 @@ Fusing data expertise with operational excellence. ETL pipelines, data warehousi
 
 Data Engineer | DevOps Specialist | Automating Insights
 ETL pipelines | Data warehousing | Infrastructure as Code
-Python | SQL | Docker | Kubernetes | AWS
+Python | SQL | Docker | Kubernetes | Cloud computing | AWS | AZURE | GCP
 
 Building robust data solutions & automating operations.
 Passionate about streamlining processes & driving efficiency.
