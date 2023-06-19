@@ -8,4 +8,5 @@ Python | SQL | Docker | Kubernetes | AWS
 
 Building robust data solutions & automating operations.
 Passionate about streamlining processes & driving efficiency.
+
 Let's unlock the power of data together!
